@@ -20,6 +20,11 @@ To run the notebooks, follow these steps:
 1. Open the Jupyter Notebooks in Google Colab.
 2. Execute each cell sequentially, ensuring dependencies are installed as needed.
 
+## Links
+Problem 1 - Logistic Regression - Solution: https://colab.research.google.com/drive/1795LuKLm7zZ6N6N6xF96swXTnLmUTUPB?usp=sharing
+Problem 2 - Neural Network Classifier - Solution: https://colab.research.google.com/drive/1Ex_8_qR_WRPabD-GZjyT8rZp3Nq90j0P?usp=sharing
+
+
 ## Dependencies
 
 The notebooks utilize common Python libraries for machine learning, including NumPy, Pandas, Matplotlib, and Scikit-Learn. Ensure these libraries are installed in your Colab environment.
@@ -27,4 +32,3 @@ The notebooks utilize common Python libraries for machine learning, including Nu
 ```bash
 !pip install numpy pandas matplotlib scikit-learn
 
-## Links
