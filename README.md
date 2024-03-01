@@ -21,7 +21,7 @@ To run the notebooks, follow these steps:
 2. Execute each cell sequentially, ensuring dependencies are installed as needed.
 
 ## Links
-Problem 1 - Logistic Regression - {Solution): [https://colab.research.google.com/drive/1795LuKLm7zZ6N6N6xF96swXTnLmUTUPB?usp=sharing]
+Problem 1 - Logistic Regression - (Solution): [https://colab.research.google.com/drive/1795LuKLm7zZ6N6N6xF96swXTnLmUTUPB?usp=sharing]
 Problem 2 - Neural Network Classifier - [Solution]: (https://colab.research.google.com/drive/1Ex_8_qR_WRPabD-GZjyT8rZp3Nq90j0P?usp=sharing)
 
 
